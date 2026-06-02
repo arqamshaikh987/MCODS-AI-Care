@@ -29,9 +29,9 @@
 
 ## DEPLOYMENT 🚀
 
-#### Deployment is done using [deploy](https://github.com/arqamshaikh987/Agritus/tree/deploy) branch
+#### Deployment is done using [deploy](https://github.com/arqamshaikh987/MCODS-AI-Care/tree/deploy) branch
 #### This website is deployed at [Render](https://render.com/)
-#### You can access it [here](https://agritus.onrender.com)
+#### You can access it [here](https://mcods-ai-care.onrender.com)
 #### Note: The website may take a minute to load sometimes, as the server may be in hibernate state
 
 ## License 📝
