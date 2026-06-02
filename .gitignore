@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+uploads/
+.DS_Store
+*.h5
+*.pth
+!models/model.h5
+!models/new_oral_disease_model.pth
